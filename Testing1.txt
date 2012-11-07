@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 this is a test for testing test apprati.
 this is going to be a great time
 There is a problem with vim opening this file because there is a
 swap file in the same folder. Don't know what this means.
+=======
+This is a test of git banching freatures. right now I am in branch called iss1 and I wish to see how git handles merging of files. While in the master branch, this text file has about 3 lines of text already in it. When I opened it up in branch iss1, it had no data at all. Very Strange. Going to save now  and then commit.
+>>>>>>> iss1
